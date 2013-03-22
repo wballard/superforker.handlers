@@ -1,3 +1,5 @@
 #! /usr/bin/env bash
 echo "PORPOISE ${PORPOISE}"
 echo "PURPOSE ${PURPOSE}"
+
+echo "I hope you like my porpoise"
